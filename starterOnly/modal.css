@@ -527,3 +527,22 @@ footer {
   }
 }
 
+
+
+.error-message{
+
+  color:red;
+  font-size: 14px;
+  display: none;
+}
+
+.border-red{
+  border-width: 3px;
+  border-color: #f00;
+}
+.border-green{
+  border-width: 3px;
+  border-color: green;
+}
+
+
