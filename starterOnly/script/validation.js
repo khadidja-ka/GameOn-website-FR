@@ -24,7 +24,7 @@ const validateEmail = email => {
         );
 };
 
-// Ca récupere le bouton envoyer
+// bouton envoyer
 btnSubmit.addEventListener("click", submit);
 
 // fonction qui gere la validation du formulaire
